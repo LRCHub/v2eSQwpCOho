@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雪唄 - yukiuta",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-12T09:11:37.007256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雪唄",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/01_雪唄_Myuk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪唄 - yukiuta",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_雪唄_-_yukiuta_Myuk.txt"
+    }
+  ]
+}
